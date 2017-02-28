@@ -1,0 +1,1 @@
+A dummy app that leverages web pack and all the bid tool fun and madness.
